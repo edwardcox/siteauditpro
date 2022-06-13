@@ -17,10 +17,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.siteauditpro.com.au
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://i0.wp.com/siteauditpro.com.au/wp-content/uploads/2022/06/SAP-LOGO-189x60-px-1.png?w=189&ssl=1
   name: Site Audit Pro Site Monitor
   introTitle: "Provided by upptime & github"
-  introMessage: This is a sample status page.
+  introMessage: (c)2022 SiteAudit Pro.
   navbar:
     - title: Status
       href: /
