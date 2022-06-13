@@ -5,14 +5,13 @@ repo: upptime # The name of this repository
 sites:
   - name: FLECK
     url: https://fleck.com.au
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Apple
-    url: https://apple.com
   - name: Site Audit Pro
     url: https://siteauditpro.com.au
+  - name: Google
+    url: https://www.google.com
+  - name: Apple
+    url: https://apple.com
+ 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -22,7 +21,7 @@ status-website:
   logoUrl: https://i0.wp.com/siteauditpro.com.au/wp-content/uploads/2022/06/SAP-LOGO-189x60-px-1.png?w=189&ssl=1
   name: Site Audit Pro Site Monitor
   introTitle: "Provided by upptime & github"
-  introMessage: (c)2022 SiteAudit Pro.
+  introMessage: "(c)2022 SiteAudit Pro."
   navbar:
     - title: Status
       href: /
