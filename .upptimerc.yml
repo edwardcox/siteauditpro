@@ -5,13 +5,26 @@ repo: siteauditpro # The name of this repository
 sites:
   - name: FLECK
     url: https://fleck.com.au
+  - name: Eagle Self Storage
+    url: https://eaglestorage.com.au
   - name: Site Audit Pro
     url: https://siteauditpro.com.au
+  - name: Scintera Shopify Shop
+    url: https://scintera.com.au
+  - name: Thin Systems
+    url: https://thin.com.au
   - name: Google
     url: https://www.google.com
   - name: Apple
     url: https://apple.com
- 
+  - name: Google DNS 1
+    check: "tcp-ping"
+    url: 8.8.4.4
+    port: 53
+  - name: Google DNS 2
+    check: "tcp-ping"
+    url: 8.8.8.8
+    port: 53
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
