@@ -34,12 +34,10 @@ status-website:
   logoUrl: https://i0.wp.com/siteauditpro.com.au/wp-content/uploads/2022/06/SAP-LOGO-189x60-px-1.png?w=189&ssl=1
   name: Site Audit Pro Site Monitor
   introTitle: "Provided by upptime & github"
-  introMessage: "(c)2022 SiteAudit Pro."
+  introMessage: "SiteAudit Pro. Protecting you WordPress site."
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
