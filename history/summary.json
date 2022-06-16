@@ -22,9 +22,9 @@
     "url": "https://eaglestorage.com.au",
     "icon": "https://favicons.githubusercontent.com/eaglestorage.com.au",
     "slug": "eagle-self-storage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +33,18 @@
     "timeWeek": 119,
     "timeMonth": 119,
     "timeYear": 119,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-16": 0
+    }
   },
   {
     "name": "Site Audit Pro",
     "url": "https://siteauditpro.com.au",
     "icon": "https://favicons.githubusercontent.com/siteauditpro.com.au",
     "slug": "site-audit-pro",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 1072,
     "timeMonth": 1072,
     "timeYear": 1072,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-16": 0
+    }
   },
   {
     "name": "Scintera Shopify Shop",
@@ -76,7 +80,7 @@
     "url": "https://thin.com.au",
     "icon": "https://favicons.githubusercontent.com/thin.com.au",
     "slug": "thin-systems",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -87,7 +91,9 @@
     "timeWeek": 85,
     "timeMonth": 85,
     "timeYear": 85,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-16": 0
+    }
   },
   {
     "name": "Google",
